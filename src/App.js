@@ -786,9 +786,14 @@ function App() {
           <span>Python</span>
           <span>Django</span>
           <span>FastAPI</span>
+          <span>JAVA</span>
+          <span>PHP</span>
+          <span>ANDROID</span>
           <span>React</span>
           <span>AWS</span>
-          <span>Docker</span>
+          <span>AZURE</span>
+          <span>IOT</span>
+          <span>DX</span>
         </div>
       </motion.section>
 
@@ -845,9 +850,9 @@ function App() {
         <h2>{lang === "EN" ? "Connect with me" : "連絡先"}</h2>
 
         <div className="social-links">
-          <a href="#" className="icon-btn"><FaLinkedin /></a>
-          <a href="#"className="icon-btn"><FaGithub /> </a>
-          <a href="#"className="icon-btn"><FaTwitter /> </a>
+          <a href="https://www.linkedin.com/in/amardeep-chimankar-94018131/" className="icon-btn"><FaLinkedin /></a>
+          <a href="https://github.com/Amardeep11123"className="icon-btn"><FaGithub /> </a>
+          <a href="https://x.com/AMARDEEP1123"className="icon-btn"><FaTwitter /> </a>
           <a href="#"className="icon-btn"><FaInstagram /></a>
         </div>
       </motion.section>
