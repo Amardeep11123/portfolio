@@ -143,6 +143,20 @@ body.dark .card {
   background: #2563eb;
   border-radius: 50%;
 }
+.timeline-item h3 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.timeline-item h4 {
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+.timeline-item ul {
+  margin-left: 15px;
+}
 
 /* CONTACT */
 .contact p {

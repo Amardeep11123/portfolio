@@ -42,21 +42,200 @@ function App() {
 
     experience: [
       {
-        role: "Team Lead – Autonomous Bus Project",
-        company: "Rakuten Mobile | Saga, Japan",
-        details: [
-          "Developed FastAPI backend system",
-          "Handled telemetry data processing",
-          "Worked on Azure VM & cloud setup"
+        company: "Westyle | Tokyo, Japan",
+        duration: "2025/07 ~ 2025/12",
+        projects: [
+          {
+            role: "Backend Engineer – EdgeAI System",
+            details: [
+              "FastAPI-based real-time processing",
+              "MongoDB + AI integration",
+              "FCM notification & Azure deployment"
+            ]
+          }
         ]
       },
       {
-        role: "Full Stack Developer – PARFA",
-        company: "Django + React Analytics System",
-        details: [
-          "Developed dynamic UI using React + Konva",
-          "Built backend APIs",
-          "Handled data visualization system"
+        company: "Be-Next Technologies | Tokyo, Japan",
+        duration: "2019/06 ~ 2024/10",
+        projects: [
+          {
+            role: "Full Stack Developer – PARFA (Hitachi)",
+            details: [
+              "React + Django analytics system",
+              "Graph, table & network visualization",
+              "UI + API development"
+            ]
+          },
+          {
+            role: "API Engineer – Oracle BRM (iDEA)",
+            details: [
+              "API testing using SOAPUI",
+              "SQL data validation",
+              "System analysis & documentation"
+            ]
+          },
+          {
+            role: "Backend Engineer – AWS System (BFT)",
+            details: [
+              "Lambda + API Gateway",
+              "RDS (PostgreSQL)",
+              "CloudWatch & IAM"
+            ]
+          },
+          {
+            role: "IoT Developer – Solar Inverter System",
+            details: [
+              "Sensor data processing",
+              "Modbus communication",
+              "Cloud data integration"
+            ]
+          },
+          {
+            role: "IoT Developer – Parking Reservation System",
+            details: [
+              "Azure IoT communication",
+              "Gateway integration",
+              "Real-time messaging system"
+            ]
+          },
+          {
+            role: "Backend Developer – Order Management (Softbank)",
+            details: [
+              "Java + SQL Server",
+              "Data update & validation",
+              "System maintenance"
+            ]
+          },
+          {
+            role: "Android Developer – IoT Camera App",
+            details: [
+              "Bluetooth + sensor integration",
+              "Real-time overlay data",
+              "Android development"
+            ]
+          }
+        ]
+      },
+      {
+        company: "Infoz Software Solution | India",
+        duration: "2016/07 ~ 2019/05",
+        projects: [
+          {
+            role: "Full Stack Web & Mobile Developer(Team Leader) – Taxi Booking App",
+            details: [
+              "Android + PHP development",
+              "Real-time booking system",
+              "API integration"
+            ]
+          },
+          {
+            role: "IoT Developer(Team Leader) – Agriculture System",
+            details: [
+              "Sensor-based automation",
+              "IoT data processing",
+              "Hardware integration"
+            ]
+          },
+          {
+            role: "Full Stack Developer – Sales Accelerator",
+            details: [
+              "PHP + MySQL system",
+              "Real-time business tracking",
+              "Dashboard development"
+            ]
+          },
+          {
+            role: "Full Stack Developer – CRM System",
+            details: [
+              "Manufacturing CRM system",
+              "Process tracking",
+              "Web application development"
+            ]
+          },
+          {
+            role: "Android Developer – Education App",
+            details: [
+              "English learning app",
+              "Android development",
+              "API integration"
+            ]
+          }
+        ]
+      },
+      {
+        company: "Atlink Corporation | Japan",
+        duration: "2015/06 ~ 2016/04",
+        projects: [
+          {
+            role: "Web Developer – Ryokin Sales System",
+            details: [
+              "PHP + MySQL development",
+              "Dashboard & reporting system"
+            ]
+          }
+        ]
+      },
+      {
+        company: "Shinten Systems | India",
+        duration: "2011/08 ~ 2015/05",
+        projects: [
+          {
+            role: "Web Developer – Restaurant Management",
+            details: [
+              "PHP + MySQL system",
+              "Financial reporting",
+              "Automation"
+            ]
+          },
+          {
+            role: "Web Developer – Restaurant Website",
+            details: [
+              "Website development",
+              "UI design",
+              "Deployment"
+            ]
+          },
+          {
+            role: "Web Developer – Safety System",
+            details: [
+              "WordPress development",
+              "Corporate website",
+              "UI customization"
+            ]
+          },
+          {
+            role: "Android Developer – AR App",
+            details: [
+              "3D visualization",
+              "AR functionality",
+              "Mobile development"
+            ]
+          },
+          {
+            role: "Web Developer – Petition System",
+            details: [
+              "PHP web system",
+              "Form & data management",
+              "User interface"
+            ]
+          },
+          {
+            role: "Software Developer – Reporting Tool",
+            details: [
+              "VB.NET application",
+              "Excel report generation",
+              "Government system"
+            ]
+          },
+          {
+            role: "Web Developer – 3D Visualization",
+            details: [
+              "ASP.NET + Silverlight",
+              "3D object rendering",
+              "UI interaction"
+            ]
+          }
         ]
       }
     ],
@@ -84,21 +263,200 @@ function App() {
 
     experience: [
       {
-        role: "チームリード – 自動運転バスプロジェクト",
-        company: "楽天モバイル | 佐賀",
-        details: [
-          "FastAPIバックエンド開発",
-          "テレメトリデータ処理",
-          "Azureクラウド環境構築"
+        company: "株式会社WeStyle | 東京, 日本",
+        duration: "2025/07 ~ 2025/12",
+        projects: [
+          {
+            role: "バックエンドエンジニア – EdgeAIシステム",
+            details: [
+              "FastAPIによるリアルタイム処理",
+              "MongoDB・AI連携",
+              "FCM通知・Azure環境構築"
+            ]
+          }
         ]
       },
       {
-        role: "フルスタック開発 – PARFA",
-        company: "Django + React 分析システム",
-        details: [
-          "React + KonvaによるUI開発",
-          "API開発",
-          "データ可視化機能"
+        company: "株式会社ビーネックステクノロジーズ | 東京, 日本",
+        duration: "2019/06 ~ 2024/10",
+        projects: [
+          {
+            role: "フルスタックエンジニア – PARFA（Hitachi）",
+            details: [
+              "React + Djangoによる分析システム",
+              "グラフ・ネットワーク可視化",
+              "UI・API開発"
+            ]
+          },
+          {
+            role: "APIエンジニア – Oracle BRM（iDEA）",
+            details: [
+              "SOAPUIによるAPIテスト",
+              "SQLデータ検証",
+              "システム分析・ドキュメント作成"
+            ]
+          },
+          {
+            role: "バックエンドエンジニア – AWS開発（BFT）",
+            details: [
+              "Lambda・API Gateway",
+              "RDS(PostgreSQL)",
+              "CloudWatch・IAM"
+            ]
+          },
+          {
+            role: "IoTエンジニア – ソーラーインバーター開発",
+            details: [
+              "センサーデータ処理",
+              "Modbus通信",
+              "クラウド連携"
+            ]
+          },
+          {
+            role: "IoTエンジニア – 駐車場予約システム",
+            details: [
+              "Azure IoT通信",
+              "ゲートウェイ連携",
+              "リアルタイム処理"
+            ]
+          },
+          {
+            role: "バックエンドエンジニア – 受注管理（Softbank）",
+            details: [
+              "Java + SQL Server",
+              "データ更新・検証",
+              "システム保守"
+            ]
+          },
+          {
+            role: "Androidエンジニア – IoTカメラアプリ",
+            details: [
+              "Bluetooth・センサー連携",
+              "リアルタイム表示",
+              "Android開発"
+            ]
+          }
+        ]
+      },
+      {
+        company: "Infoz Software Solution | インド",
+        duration: "2016/07 ~ 2019/05",
+        projects: [
+          {
+            role: "モバイル開発者 – タクシー予約アプリ",
+            details: [
+              "Android・PHP開発",
+              "リアルタイム予約システム",
+              "API連携"
+            ]
+          },
+          {
+            role: "IoTエンジニア – 農業システム",
+            details: [
+              "センサー自動化",
+              "IoTデータ処理",
+              "ハードウェア連携"
+            ]
+          },
+          {
+            role: "フルスタックエンジニア – セールス管理",
+            details: [
+              "PHP・MySQL開発",
+              "リアルタイム管理",
+              "ダッシュボード"
+            ]
+          },
+          {
+            role: "フルスタックエンジニア – CRMシステム",
+            details: [
+              "製造CRMシステム",
+              "業務プロセス管理",
+              "Web開発"
+            ]
+          },
+          {
+            role: "Android開発者 – 教育アプリ",
+            details: [
+              "英語学習アプリ",
+              "Android開発",
+              "API連携"
+            ]
+          }
+        ]
+      },
+      {
+        company: "Atlink株式会社 | 日本",
+        duration: "2015/06 ~ 2016/04",
+        projects: [
+          {
+            role: "Webエンジニア – 販売管理システム",
+            details: [
+              "PHP・MySQL開発",
+              "ダッシュボード・レポート機能"
+            ]
+          }
+        ]
+      },
+      {
+        company: "Shinten Systems | インド",
+        duration: "2011/08 ~ 2015/05",
+        projects: [
+          {
+            role: "Webエンジニア – レストラン管理システム",
+            details: [
+              "PHP・MySQL開発",
+              "売上レポート機能",
+              "業務自動化"
+            ]
+          },
+          {
+            role: "Webエンジニア – レストランサイト",
+            details: [
+              "Webサイト開発",
+              "UI設計",
+              "デプロイ"
+            ]
+          },
+          {
+            role: "Webエンジニア – 安全ソリューションサイト",
+            details: [
+              "WordPress開発",
+              "企業サイト構築",
+              "UIカスタマイズ"
+            ]
+          },
+          {
+            role: "Androidエンジニア – ARアプリ",
+            details: [
+              "3D表示機能",
+              "AR開発",
+              "モバイル開発"
+            ]
+          },
+          {
+            role: "Webエンジニア – 署名システム",
+            details: [
+              "PHP開発",
+              "フォーム管理",
+              "UI設計"
+            ]
+          },
+          {
+            role: "ソフトウェア開発者 – レポートツール",
+            details: [
+              "VB.NET開発",
+              "Excel帳票作成",
+              "業務システム"
+            ]
+          },
+          {
+            role: "Webエンジニア – 3D表示システム",
+            details: [
+              "ASP.NET + Silverlight",
+              "3D表示",
+              "UI開発"
+            ]
+          }
         ]
       }
     ],
@@ -111,13 +469,13 @@ function App() {
 
   const t = content[lang];
   // ✅ ADD HERE
-  const projects = [
+  const projects  = [
     {
       title: {
         EN: "EdgeAI Event Processing System",
         JP: "EdgeAI イベント処理システム"
       },
-      tech: "Django + FastAPI + MongoDB + AWS",
+      tech: "Python + FastAPI + MongoDB + AWS",
       description: {
         EN: "Real-time AI-based event processing system.",
         JP: "AIを活用したリアルタイムイベント処理システム。"
@@ -125,15 +483,15 @@ function App() {
       responsibilities: {
         EN: [
           "Designed backend APIs using FastAPI",
-          "Integrated MongoDB for telemetry data",
+          "Integrated MongoDB for real time event data",
           "Implemented push notifications using FCM",
-          "Deployed system on AWS EC2"
+          "Deployed Code on Azure VM"
         ],
         JP: [
           "FastAPIを使用したバックエンドAPI設計",
           "MongoDBを用いたデータ管理",
           "FCMによる通知機能の実装",
-          "AWS EC2へのデプロイ"
+          "AZURE VMへのデプロイ"
         ]
       }
     },
@@ -142,123 +500,173 @@ function App() {
         EN: "PARFA Analytics Tool",
         JP: "PARFA 分析ツール"
       },
-      tech: "Django + React + Konva.js",
+      tech: "Python + Django + React",
       description: {
-        EN: "Analytics platform for data visualization.",
-        JP: "データ可視化のための分析プラットフォーム。"
+        EN: "Internal analytics system developed for Hitachi.Used for visualizing data, automating reports, and improving analysis workflow.",
+        JP: "社内向け分析システムとして日立向けに開発。データの可視化、レポートの自動化、および分析業務の効率化を実現。"
       },
       responsibilities: {
         EN: [
-          "Developed frontend using React + Konva",
-          "Designed backend APIs using Django",
-          "Built interactive graph visualization",
-          "Worked with Japanese client requirements"
+          "Developed dynamic UI using React + Konva.js",
+          "Implemented network graph with drag, connect, auto-layout",
+          "Integrated Django + Flask APIs",
+          "Excel upload, parsing and export system",
+          "Dashboard combining Graph + Table + Network"
         ],
         JP: [
-          "ReactとKonvaを用いたフロントエンド開発",
-          "Djangoによるバックエンド開発",
-          "インタラクティブなグラフUIの構築",
-          "日本顧客の要件対応"
+          "ReactおよびKonva.jsを用いた動的なUIを開発",
+          "ドラッグ操作、ノード接続、自動レイアウト機能を備えたネットワークグラフを実装",
+          "DjangoおよびFlaskのAPIと連携",
+          "Excelのアップロード、解析、エクスポート機能を実装",
+          "グラフ・テーブル・ネットワークを統合したダッシュボードを構築"
         ]
       }
     },
     {
       title: {
-        EN: "EdgeAI Event Processing System",
-        JP: "EdgeAI イベント処理システム"
+        EN: "Oracle BRM API Operation",
+        JP: "Oracle BRM API運用"
       },
-      tech: "Django + FastAPI + MongoDB + AWS",
+      tech: "Python + SOAPUI + PostgreSql",
       description: {
-        EN: "Real-time AI-based event processing system.",
-        JP: "AIを活用したリアルタイムイベント処理システム。"
+        EN: "Worked on telecom billing And Revenue system focusing on API validation and data accuracy.",
+        JP: "通信課金および収益管理システムにおいて、API検証およびデータ精度向上に従事"
       },
       responsibilities: {
         EN: [
-          "Designed backend APIs using FastAPI",
-          "Integrated MongoDB for telemetry data",
-          "Implemented push notifications using FCM",
-          "Deployed system on AWS EC2"
+          "Performed API testing using SOAPUI",
+          "Validated database mapping (Oracle)",
+          "Executed SQL queries for verification",
+          "Created test specification documents"
         ],
         JP: [
-          "FastAPIを使用したバックエンドAPI設計",
-          "MongoDBを用いたデータ管理",
-          "FCMによる通知機能の実装",
-          "AWS EC2へのデプロイ"
+          "SOAPUIを用いたAPIテストを実施",
+          "Oracleデータベースのマッピング検証を実施",
+          "SQLクエリを用いたデータ検証を実施",
+          "テスト仕様書を作成"
         ]
       }
     },
     {
       title: {
-        EN: "EdgeAI Event Processing System",
-        JP: "EdgeAI イベント処理システム"
+        EN: "Electricity Application (AWS)",
+        JP: "電力アプリケーション（AWS）"
       },
-      tech: "Django + FastAPI + MongoDB + AWS",
+      tech: "AWS + Python",
       description: {
-        EN: "Real-time AI-based event processing system.",
-        JP: "AIを活用したリアルタイムイベント処理システム。"
+        EN: "Serverless backend system using AWS cloud services.",
+        JP: "AWSを活用したサーバーレスバックエンドシステム開発。"
       },
       responsibilities: {
         EN: [
-          "Designed backend APIs using FastAPI",
-          "Integrated MongoDB for telemetry data",
-          "Implemented push notifications using FCM",
-          "Deployed system on AWS EC2"
+          "Developed REST APIs using Lambda",
+          "Used API Gateway & RDS",
+          "CloudWatch monitoring",
+          "IAM role and security setup",
+          "Terraform & CloudFormation"
         ],
         JP: [
-          "FastAPIを使用したバックエンドAPI設計",
-          "MongoDBを用いたデータ管理",
-          "FCMによる通知機能の実装",
-          "AWS EC2へのデプロイ"
+          "LambdaによるREST API開発",
+          "API Gateway・RDS連携",
+          "CloudWatch監視",
+          "IAM権限管理",
+          "Terraform・CloudFormation"
         ]
       }
     },
     {
       title: {
-        EN: "EdgeAI Event Processing System",
-        JP: "EdgeAI イベント処理システム"
+        EN: "Solar Inverter IoT System",
+        JP: "ソーラーインバーターIoTシステム"
       },
-      tech: "Django + FastAPI + MongoDB + AWS",
+      tech: "C + Modbus + IOT",
       description: {
-        EN: "Real-time AI-based event processing system.",
-        JP: "AIを活用したリアルタイムイベント処理システム。"
+        EN: "IoT system for collecting and sending inverter data to cloud.",
+        JP: "ソーラー機器データをクラウドへ送信するIoTシステム。"
       },
       responsibilities: {
         EN: [
-          "Designed backend APIs using FastAPI",
-          "Integrated MongoDB for telemetry data",
-          "Implemented push notifications using FCM",
-          "Deployed system on AWS EC2"
+          "Collected sensor data (power, voltage, current)",
+          "Modbus protocol communication",
+          "Cloud data integration"
         ],
         JP: [
-          "FastAPIを使用したバックエンドAPI設計",
-          "MongoDBを用いたデータ管理",
-          "FCMによる通知機能の実装",
-          "AWS EC2へのデプロイ"
+          "電力・電圧・電流データ取得",
+          "Modbus通信実装",
+          "クラウド連携"
         ]
       }
     },
     {
       title: {
-        EN: "EdgeAI Event Processing System",
-        JP: "EdgeAI イベント処理システム"
+        EN: "Parking Reservation IoT System",
+        JP: "駐車場予約IoTシステム"
       },
-      tech: "Django + FastAPI + MongoDB + AWS",
+      tech: "AZURE + JAVA + SQL SERVER + IOT + Vue.js|Node.js",
       description: {
-        EN: "Real-time AI-based event processing system.",
-        JP: "AIを活用したリアルタイムイベント処理システム。"
+        EN: "IoT-based system for real-time parking reservation and communication.",
+        JP: "リアルタイム通信を行う駐車場予約IoTシステム。"
       },
       responsibilities: {
         EN: [
-          "Designed backend APIs using FastAPI",
-          "Integrated MongoDB for telemetry data",
-          "Implemented push notifications using FCM",
-          "Deployed system on AWS EC2"
+          "Azure cloud integration",
+          "Gateway communication (Armadillo)",
+          "Real-time message processing",
+          "Created Microservices",
+          "Developed Web Application"
         ],
         JP: [
-          "FastAPIを使用したバックエンドAPI設計",
-          "MongoDBを用いたデータ管理",
-          "FCMによる通知機能の実装",
-          "AWS EC2へのデプロイ"
+          "Azureクラウド連携",
+          "ゲートウェイ通信",
+          "リアルタイム処理",
+          "MicroServicesの作成",
+          "Web アプリの作成"
+        ]
+      }
+    },
+     {
+      title: {
+        EN: "Order Management System",
+        JP: "受注管理システム"
+      },
+      tech: "JAVA + JSP + Servelet + SQL SERVER",
+      description: {
+        EN: "Enterprise system for managing and validating business data.",
+        JP: "業務データ管理および検証を行う業務システム。"
+      },
+      responsibilities: {
+        EN: [
+          "Data update(Store Procedure,View,Table) using SQL Server",
+          "Validation and testing",
+          "System maintenance"
+        ],
+        JP: [
+          "SQL Serverによるデータ更新(Store Procedure,View,Table)",
+          "データ検証・テスト",
+          "システム保守"
+        ]
+      }
+    },
+     {
+      title: {
+        EN: "IoT Camera Mobile App",
+        JP: "IoTカメラアプリ"
+      },
+      tech: "ANDROID + JAVA",
+      description: {
+        EN: "Mobile app integrating sensors with camera overlay display.",
+        JP: "センサーと連携したカメラ表示アプリ。"
+      },
+      responsibilities: {
+        EN: [
+          "Bluetooth + sensor integration",
+          "Real-time overlay data display",
+          "Android development"
+        ],
+        JP: [
+          "Bluetooth・センサー連携",
+          "リアルタイム表示",
+          "Android開発"
         ]
       }
     },
@@ -281,7 +689,7 @@ function App() {
 
       {/* NAVBAR */}
       <div className="navbar">
-      <h2 className="logo">Amardip</h2>
+      <h2 className="logo">Welcome to My Portfolio</h2>
 
         <div className="nav-links">
           <a href="#projects">Projects</a>
@@ -397,24 +805,30 @@ function App() {
         <h2>{content[lang].experienceTitle}</h2>
 
         {content[lang].experience.map((exp, index) => (
-          <motion.div
-              key={index}
-              className="timeline-item"
-              initial={{ opacity: 0, x: -50 }}
-              whileInView={{ opacity: 1, x: 0 }}
-              whileHover={{ scale: 1.05 }}
-              whileTap={{ scale: 0.98 }}
-              transition={{ duration: 0.5 }}
-          >
-            <h3>{exp.role}</h3>
-            <p>{exp.company}</p>
+          <div key={index} className="timeline-item">
 
-            <ul>
-              {exp.details.map((d, i) => (
-                <li key={i}>{d}</li>
-              ))}
-            </ul>
-          </motion.div>
+            {/* 🔵 COMPANY LEVEL */}
+            <h3>{exp.company}</h3>
+            <p style={{ fontSize: "14px", color: "#64748b" }}>
+              {exp.duration}
+            </p>
+
+            {/* PROJECTS */}
+            {exp.projects.map((proj, i) => (
+              <div key={i} style={{ marginTop: "15px" }}>
+                
+                <h4 style={{ marginBottom: "5px" }}>{proj.role}</h4>
+
+                <ul>
+                  {proj.details.map((d, j) => (
+                    <li key={j}>{d}</li>
+                  ))}
+                </ul>
+
+              </div>
+            ))}
+
+          </div>
         ))}
       </motion.section>
 
@@ -458,7 +872,7 @@ function App() {
                   message: formData.get("message"),
                 };
                 try {
-                  const res = await fetch("http://127.0.0.1:8000/contact", {
+                  const res = await fetch("http://amardipchimankar.com/api/contact", {
                     method: "POST",
                     headers: {
                       "Content-Type": "application/json",

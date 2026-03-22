@@ -43,7 +43,7 @@ app.add_middleware(
 )
 
 # MongoDB Connection
-client = MongoClient("MONGO_URL")
+client = MongoClient(os.getenv("MONGO_URL"))
 db = client["portfolio"]
 collection = db["contacts"]
 
