@@ -475,7 +475,7 @@ function App() {
         EN: "EdgeAI Event Processing System",
         JP: "EdgeAI イベント処理システム"
       },
-      tech: "Python + FastAPI + MongoDB + AWS",
+      tech: "Python + FastAPI + MongoDB",
       description: {
         EN: "Real-time AI-based event processing system.",
         JP: "AIを活用したリアルタイムイベント処理システム。"
